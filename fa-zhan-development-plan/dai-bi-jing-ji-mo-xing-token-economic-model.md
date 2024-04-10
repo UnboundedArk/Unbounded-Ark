@@ -2,6 +2,8 @@
 
 
 
+<figure><img src="../.gitbook/assets/UA.png" alt=""><figcaption></figcaption></figure>
+
 _**无界方舟代币（Unbounded Ark）$UA**_，目前主要两个功能：_**价值交换(Value Exchange)和储备价值(Reserve Value)。**_
 
 **价值交换（Value Exchange）：**$UA可用于_**社交交换（social exchange）、商品交换（exchange of goods）、时间交换（Time swap）、资产交换（Asset exchange）、信息交换（information exchange）等。**_
