@@ -1,12 +1,12 @@
-# 代币经济模型
+# 代币经济模型（Token Economic Model）
 
 
 
-_**无界方舟代币（Unbounded Ark）$UA**_，主要两个功能：_**价值交换和储备价值。**_
+_**无界方舟代币（Unbounded Ark）$UA**_，目前主要两个功能：_**价值交换(Value Exchange)和储备价值(Reserve Value)。**_
 
-**价值交换（**Value Exchange**）：**$UA可用于**社交交换**_**、商品交换、时间交换、资产交换、信息交换等。**_
+**价值交换（Value Exchange）：**$UA可用于_**社交交换（social exchange）、商品交换（exchange of goods）、时间交换（Time swap）、资产交换（Asset exchange）、信息交换（information exchange）等。**_
 
-**储备价值（**Reserve Value**）：**在生存遇到极端情况下，可用于交换应急物资，包括但不限于：_**食物、水、医疗用品、生活用品等。**_
+**储备价值（Reserve Value）：**在生存遇到极端情况下，可用于交换应急物资，包括但不限于：_**食物（food）、水（water）、医疗用品（medical supplies）、生活用品（Daily supplies）等。**_
 
 **总发行量：**300,000,000 枚
 
