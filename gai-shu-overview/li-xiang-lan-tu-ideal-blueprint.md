@@ -1,5 +1,9 @@
 # 理想蓝图（ideal blueprint）
 
+
+
+## 《终归一》
+
 无疆无界 秩序共建 ​
 
 不分彼此 种族共存&#x20;
@@ -46,7 +50,7 @@
 
 
 
-
+《Become one》
 
 No frontiers, no boundaries, order together;&#x20;
 
@@ -91,3 +95,5 @@ Revere history and release the future;​&#x20;
 Humanity is one and the world is one;&#x20;
 
 world unity, life returns to one.
+
+（此英译版来自谷歌翻译，与原版可能有意思不相同之处，欢迎专业人士指导翻译。）
