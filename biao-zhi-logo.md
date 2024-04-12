@@ -4,7 +4,7 @@ description: logo
 
 # 标志（logo）
 
-<figure><img src="../.gitbook/assets/UAlogo.png" alt=""><figcaption><p>Unbounded Ark logo</p></figcaption></figure>
+<figure><img src=".gitbook/assets/UAlogo.png" alt=""><figcaption><p>Unbounded Ark logo</p></figcaption></figure>
 
 
 
