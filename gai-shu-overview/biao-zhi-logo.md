@@ -4,19 +4,19 @@ description: logo
 
 # 标志（logo）
 
-<figure><img src=".gitbook/assets/UAlogo.png" alt=""><figcaption><p>Unbounded Ark logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/UAlogo.png" alt=""><figcaption><p>Unbounded Ark logo</p></figcaption></figure>
 
 
 
 ## 含义（meaning）：
 
-## 万物哲学：从一到万物的宇宙观
+## 万物哲学：从一到万物的宇宙观（Philosophy of all things: a view of the universe from one to all things）
 
 在宇宙的辽阔背景下，存在一种深邃且奇迹般的世界观，它是由无边无际的宇宙创造而成。这个世界观认为，整个宇宙的运转和世界的秩序依赖于政治、金融与宗教这三大基石。它们共同构成了社会的根基，影响着世界的面貌和发展方向。
 
 随着世界的进步，不可避免地产生了阶级的分化，揭示了万事万物终将“归于一”的宇宙法则。这里的“一”既是终点，也是起点——一个循环往复、永恒不变的宇宙理念。
 
-### 符号象征：
+### 符号象征（Symbol）：
 
 * **圆圈（“一”）**：代表宇宙的无限，它既是宇宙的象征，也是大道至简的体现。圆圈的完美无缺，表达了宇宙万物归于一点的终极理念。
 * **大三角形（“二”）**：象征着世界的二元性，即世界的秩序和法则。它呈现出三足鼎立的稳定状态，象征着政治、金融、宗教这三大体系平衡支撑着世界的结构。
