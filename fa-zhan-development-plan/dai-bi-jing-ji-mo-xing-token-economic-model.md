@@ -1,10 +1,6 @@
 # 代币经济模型（Token Economic Model）
 
-
-
-<figure><img src="../.gitbook/assets/UA.png" alt=""><figcaption><p><em><strong>Unbounded Ark LOGO</strong></em></p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/UAlogo (2).png" alt=""><figcaption><p>$UA LOGO</p></figcaption></figure>
 
 ## $UA代币基本信息
 
@@ -39,17 +35,7 @@ _**$UA 是一种集资产型、货币型、社交型代币。**_
 
 ## _**$**_UA代币分配（UA token distribution）
 
-| 目标群体    | 代币分配 | 去向  |
-| ------- | ---- | --- |
-|  早期贡献者  | 0.1% | 未分配 |
-| 团队发展    | 2.5% | 未分配 |
-| 初始流动性   | 5.9% | 未分配 |
-| 代币销售    | 20%  | 未分配 |
-| 储备金库    | 5%   | 未分配 |
-| 空投活动    | 2%   | 未分配 |
-| 私募/投资人  | 8%   | 未分配 |
-| 代币锁仓    | 50%  | 未分配 |
-| 社区奖励/营销 | 6.5% | 未分配 |
+<table><thead><tr><th width="158">目标群体</th><th width="109">代币分配</th><th width="138">总分配数量</th><th>已分配数量</th></tr></thead><tbody><tr><td>早期贡献者</td><td>0.1%</td><td>300000</td><td>未分配</td></tr><tr><td>团队发展</td><td>2.5%</td><td>7500000</td><td>未分配</td></tr><tr><td>初始流动性</td><td>5.9%</td><td>17700000</td><td>未分配</td></tr><tr><td>代币销售</td><td>20%</td><td>60000000</td><td>未分配</td></tr><tr><td>储备金库</td><td>5%</td><td>15000000</td><td>未分配</td></tr><tr><td>空投活动</td><td>2%</td><td>6000000</td><td>未分配</td></tr><tr><td>私募/投资人</td><td>8%</td><td>24000000</td><td>未分配</td></tr><tr><td>代币锁仓</td><td>50%</td><td>150000000</td><td>未分配</td></tr><tr><td>社区奖励/营销</td><td>6.5%</td><td>19500000</td><td>未分配</td></tr></tbody></table>
 
 
 
