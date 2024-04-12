@@ -11,3 +11,4 @@
 * [联系我们（contact us）](lian-xi-wo-men-contact-us.md)
 * [社区交流（community exchange）](she-qu-jiao-liu-community-exchange.md)
 * [🛕 建设中（Under building）](jian-she-zhong-under-building.md)
+* [⚠️ 版权声明](ban-quan-sheng-ming.md)
